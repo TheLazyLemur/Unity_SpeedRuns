@@ -1,6 +1,6 @@
-1 Hour Game Challenge
+# 1 Hour Game Challenge
 
-Space Shooter
+## Space Shooter
 
 Checklist :
     Movement [x]
