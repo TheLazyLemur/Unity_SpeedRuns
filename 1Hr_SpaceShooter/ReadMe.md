@@ -3,6 +3,7 @@
 ## Space Shooter
 
 Checklist :
+
     Movement [x]
     Shooting [x]
     Enemies
@@ -14,7 +15,9 @@ Checklist :
 
 
 Starting with :
+
     Art
+    
         1 Player sprite
         Player laser
         2 Enemy sprite
